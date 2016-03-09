@@ -1,0 +1,6 @@
+BaseUrl: "https://hugo-theme-raleway.herokuapp.com/"
+LanguageCode: "en-us"
+Title: "Loocho"
+
+Params:
+  Author: "Mana"
